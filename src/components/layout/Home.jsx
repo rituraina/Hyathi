@@ -1,6 +1,5 @@
 import React from 'react';
 import './home.css';
- import vid from "../../images/video1.mp4"
 import { NavLink } from 'react-router-dom';
 
 const Home = () => {
@@ -14,15 +13,15 @@ const Home = () => {
 </video> */}
     <div className="home">
     
-      <h1>Welcome to skill Judgement Puzzle game</h1>
-      <p>This is the homepage of Puzzle</p>
+      <h1>Welcome to  Pokemon adoption Web</h1>
+       
       <button type="button" class="btn buttonh btn-outline-success">
         <NavLink
           exact
             className="nav-link"
             to="/game"
           >
-            Play
+            Adopt
         </NavLink>
       </button>
     </div>

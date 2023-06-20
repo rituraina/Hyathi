@@ -1,0 +1,21 @@
+
+.cont-card{
+    width: 200px;
+    height: 460px;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+.con-card{
+    
+    /* background-color: blueviolet; */
+}
+.card-bod{
+ display: flex;
+ justify-content: space-evenly;
+}
+.card-bod a{
+    background-color: black;
+    color: #ffff;
+    border-radius: 3px;
+    padding: 5px;
+}

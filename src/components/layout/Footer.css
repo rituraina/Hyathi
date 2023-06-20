@@ -1,8 +1,12 @@
- .topfoot{
+ .foot{
     padding-top: 15px;
+    background-color: #1b2c2f;
+ }
+ .bottom-foot{
+  background-color: #1b2c2f;
  }
   @media screen and (max-width:800px){
-    .topfoot{
+    .foot{
       flex-direction: column;
       padding: 15px;
       justify-content: center;
@@ -10,7 +14,7 @@
     .location >span{
         font-size: 10px;
     }
-    .topfoot .fo-right{
+    .foot .fo-right{
         margin-top: 20px;
     }
   }
