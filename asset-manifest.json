@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.0df80f84.css",
+    "main.js": "/my-app/static/js/main.2b0815fd.js",
+    "static/media/pokemons.jpg": "/my-app/static/media/pokemons.0cfddd529e864c3de7a8.jpg",
+    "index.html": "/my-app/index.html",
+    "main.0df80f84.css.map": "/my-app/static/css/main.0df80f84.css.map",
+    "main.2b0815fd.js.map": "/my-app/static/js/main.2b0815fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df80f84.css",
+    "static/js/main.2b0815fd.js"
+  ]
+}
